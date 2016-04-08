@@ -1,4 +1,4 @@
-# sorteverything
+# sortingeverything
 html5 game
 
-I created it at GGJ 2016. :)
+I created it at GGJ 2016. :P
